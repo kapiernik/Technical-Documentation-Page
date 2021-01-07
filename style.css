@@ -21,6 +21,14 @@ body{
     border-bottom: 2px solid #000;
 }
 
+h1{
+    font-size: 22px;
+}
+
+h1, h2, h3{
+    font-weight: 500;
+}
+
 a{
     color: #000;
     text-decoration: none;
@@ -33,7 +41,30 @@ a{
 }
 
 .nav-li{
-    padding: 10px 10px;
+    padding: 10px 20px;
     border-bottom: 2px solid #000;
+    font-size: 13px;
 }
 
+.main-section{
+    width: 75%;
+    float: right;
+    font-size: 16px;
+    padding: 20px 20px;
+}
+
+h2{
+    padding: 10px 0;
+}
+
+p{
+    padding: 8px 15px;
+    font-size: 0.75em;
+}
+
+.section-list{
+    margin-top: 8px;
+    font-size: 0.75em;
+    padding-left: 65px;
+    line-height: 1.8;
+}
