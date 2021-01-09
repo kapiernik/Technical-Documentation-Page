@@ -82,3 +82,14 @@ p{
     padding-bottom: 15px;
 }
 
+.code{
+    background-color: #f7f7f7;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    padding: 8px 0 8px 13px;
+    line-height: 2;
+    font-size: 0.7em;
+    border: 0px solid #fff;
+    border-radius: 3px;
+}
