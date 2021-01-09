@@ -93,3 +93,9 @@ p{
     border: 0px solid #fff;
     border-radius: 3px;
 }
+
+#Declaring_variables .section-list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
