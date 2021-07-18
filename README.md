@@ -1,1 +1,1 @@
-# Techincal-Documentaion-Page
+# Short Javascript Documentation Page
